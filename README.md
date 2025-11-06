@@ -1,5 +1,7 @@
 # Computational_Physics
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Computational Physics A course in USTC
 
 ## 📚 课程大纲
